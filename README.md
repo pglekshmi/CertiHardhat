@@ -19,5 +19,9 @@ Compile Contract
 npx hardhat compile
 ```
 
+Deploy contract
+```
+npx hardhat ignition deploy ./ignition/module/Certi.js --network localhost
+```
 
 
